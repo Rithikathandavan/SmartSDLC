@@ -1,5 +1,3 @@
-# SmartSDLC
-
 # 🛠 AI Code & Requirement Assistant
 
 > Analyze requirements, generate code, and create unit tests—AI style! 🤖💻
@@ -21,22 +19,13 @@ Python | Gradio | PyTorch | Transformers | PyPDF2
 
 ---
 
-## 🚀 Run Locally
-
-```bash
-git clone https://github.com/your-username/ai-code-requirement-assistant.git
-cd ai-code-requirement-assistant
-pip install -r requirements.txt
-python app.py
-```
-
-Open the link in your browser or use `share=True` for public access.
-
----
-
 ## 📸 Screenshot
 
+If your screenshot is saved as `screenshot.png` in the repo root:
+
+```markdown
 ![App Screenshot](screenshot.png)
+```
 
 ---
 
@@ -45,7 +34,3 @@ Open the link in your browser or use `share=True` for public access.
 MIT License
 
 ---
-
-If you want, I can **also draft a tiny “README with badges and links” version** like modern GitHub repos have—it’ll make your project look super professional and clickable.
-
-Do you want me to do that too?
