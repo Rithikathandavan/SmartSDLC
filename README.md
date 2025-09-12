@@ -21,7 +21,7 @@ Python | Gradio | PyTorch | Transformers | PyPDF2
 
 ## 📸 Screenshot
 ```markdown
-![App Screenshot](screenshot.png)
+(screenshot.jpg)
 ```
 
 ---
