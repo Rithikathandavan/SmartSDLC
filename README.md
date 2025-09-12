@@ -20,9 +20,6 @@ Python | Gradio | PyTorch | Transformers | PyPDF2
 ---
 
 ## 📸 Screenshot
-
-If your screenshot is saved as `screenshot.png` in the repo root:
-
 ```markdown
 ![App Screenshot](screenshot.png)
 ```
