@@ -19,13 +19,6 @@ Python | Gradio | PyTorch | Transformers | PyPDF2
 
 ---
 
-## 📸 Screenshot
-```markdown
-(screenshot.jpg)
-```
-
----
-
 ## 📝 License
 
 MIT License
